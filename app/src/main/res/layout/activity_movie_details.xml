@@ -4,6 +4,12 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <ImageView
+        android:id="@+id/moviePoster"
+        android:layout_width="match_parent"
+        android:layout_height="285dp"
+        android:contentDescription="TODO" />
+
     <TextView
         android:id="@+id/movieTitle"
         android:layout_width="wrap_content"
@@ -22,9 +28,36 @@
         android:layout_height="wrap_content"
         android:textSize="16sp"/>
 
-    <ImageView
-        android:id="@+id/moviePoster"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
-</LinearLayout>
+    <!-- RecyclerView for displaying comments -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/commentsRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="387dp"
+        android:layout_weight="1" />
 
+    <!-- EditText for adding a comment -->
+    <EditText
+        android:id="@+id/commentInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Add a comment"
+        android:minHeight="48dp"
+        android:padding="8dp" />
+
+    <!-- RatingBar for adding a rating -->
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:rating="0"/>
+
+    <!-- Button for adding a comment -->
+    <Button
+        android:id="@+id/addCommentButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Comment"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+</LinearLayout>

@@ -57,6 +57,8 @@ dependencies {
 
     // Directly add Glide and the annotation processor
     implementation(libs.glide)
+    implementation(libs.androidx.room.common)
+    implementation(libs.androidx.room.ktx)
     annotationProcessor(libs.compiler)
 
     implementation(libs.androidx.recyclerview)
