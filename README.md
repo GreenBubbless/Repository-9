@@ -143,9 +143,9 @@ this section]
     
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
-    - All initial user stories completed
-[Add video/gif of your current application that shows build progress]
-- [![Completed User Stories Video](https://img.youtube.com/vi/gtW9eFi1DR4/0.jpg)](https://www.youtube.com/watch?v=gtW9eFi1DR4)
+-  All  user stories listed aboce completed
+-  [Add video/gif of your current application that shows build progress]
+- [![Completed User Stories Video](https://img.youtube.com/vi/FymLh2kF1CE/0.jpg)](https://www.youtube.com/watch?v=FymLh2kF1CE)
 
 ## App Demo Video
 
