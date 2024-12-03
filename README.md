@@ -146,8 +146,8 @@ from the original requirements
     - All initial user stories completed
 [Add video/gif of your current application that shows build progress]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yQ2Yn6ZuBjQ/0.jpg)](https://www.youtube.com/watch?v=yQ2Yn6ZuBjQ)
 
 ## App Demo Video
 
 - Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+- [![Demo Video](https://img.youtube.com/vi/NmHKXufTWAQ/0.jpg)](https://www.youtube.com/watch?v=NmHKXufTWAQ)
