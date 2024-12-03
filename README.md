@@ -127,16 +127,23 @@ this section]
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="https://github.com/GreenBubbless/Repository-9/blob/main/project%20board%20pt2.png" width=600>
-![image](https://github.com/user-attachments/assets/b1b5ce9d-eb6b-4f86-aebf-0e318270a0a3)
+[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] 
+![image](https://github.com/user-attachments/assets/f68ca2ad-143e-4538-9a99-196890a5fbbb)
+
 
 
 ## Completed user stories
 
 - List the completed user stories from this unit
+  - User must be able to view current showing movies through MovieBD API connection
+  - User must be able to scroll through Movies
+  - User must be able to click Movie for detailed description (Movie title, Poster, Description, Release Date)
+  - User must be able to input comments and ratings on movie
+  - User must be able to view comments and ratingd on movies
+    
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
-
+    - All initial user stories completed
 [Add video/gif of your current application that shows build progress]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
