@@ -128,6 +128,8 @@ this section]
 ## GitHub Project board
 
 [Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="https://github.com/GreenBubbless/Repository-9/blob/main/project%20board%20pt2.png" width=600>
+![image](https://github.com/user-attachments/assets/b1b5ce9d-eb6b-4f86-aebf-0e318270a0a3)
+
 
 ## Completed user stories
 
